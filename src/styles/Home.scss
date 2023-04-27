@@ -1,0 +1,18 @@
+.mySwiper-jumbotron {
+  .swiper-pagination-bullet {
+    background-color: white;
+  }
+}
+
+.clients-swiper {
+  .swiper-slide {
+    /* Center slide text vertically */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .swiper-pagination-bullet {
+    background-color: white;
+  }
+}
